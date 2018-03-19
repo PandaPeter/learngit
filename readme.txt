@@ -6,3 +6,4 @@ Creating a new branch is quick adn simple.
 This is panda.
 This is peter.
 config:utf-8
+/usr/bin/env
